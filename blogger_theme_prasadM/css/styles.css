@@ -77,7 +77,7 @@ body {
     color var(--transition-speed) ease;
 }
 
-.container {
+.container1 {
   width: 90%;
   max-width: 1200px;
   margin: 0 auto;
@@ -190,7 +190,7 @@ body {
     box-shadow var(--transition-speed) ease;
 }
 
-.navbar .container {
+.navbar .container1 {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -473,7 +473,7 @@ main {
   }
 }
 
-.hero .container {
+.hero .container1 {
   display: flex;
   align-items: center;
   position: relative;
@@ -1221,10 +1221,10 @@ input:checked + .slider .moon {
   .theme-toggle {
     margin-right: 10px;
   }
-  .container {
+  .container1 {
     max-width: 720px;
   }
-  .hero .container {
+  .hero .container1 {
     flex-direction: column;
     text-align: center;
   }
