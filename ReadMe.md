@@ -1,1 +1,1 @@
-This Repository provides a Space for my assets that used in various projects throught (jsdelivr.net)[https://jsdelivr.net]
+This Repository provides a Space for my assets that are used in various projects through [jsdelivr.net](https://jsdelivr.net)
