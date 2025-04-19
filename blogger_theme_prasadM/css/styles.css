@@ -73,6 +73,7 @@ body {
   color: var(--text-color);
   background-color: var(--bg-color);
   line-height: 1.6;
+  word-break: normal !important;
   transition: background-color var(--transition-speed) ease,
     color var(--transition-speed) ease;
 }
@@ -503,7 +504,6 @@ main {
   color: var(--text-color-secondary);
   max-width: 600px;
 }
-
 
 .hero-title {
   font-size: calc(2rem + 2vw);
