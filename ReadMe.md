@@ -1,0 +1,1 @@
+This Repository provides a Space for my assets that used in various projects throught (jsdelivr.net)[https://jsdelivr.net]
